@@ -1,0 +1,13 @@
+{
+  "easy": "Easy",
+  "hard": "Hard",
+  "your_turn": "YOUR TURN",
+  "waiting_for_opponent": "Waiting for opponent...",
+  "red_s_turn": "Red's turn",
+  "green_s_turn": "Green's turn",
+  "you_won": "you won",
+  "you_lost": "you lost",
+  "red_won": "red won",
+  "green_won": "green won",
+  "draw": "draw"
+}

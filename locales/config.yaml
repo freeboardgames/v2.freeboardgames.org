@@ -1,0 +1,9 @@
+en:
+  name: English
+  playVerb: play
+pt:
+  name: Português
+  playVerb: jogar
+de:
+  name: Deutsch
+  playVerb: spiele
